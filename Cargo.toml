@@ -1,0 +1,12 @@
+[package]
+name = "aicodb"
+version = "0.1.0"
+authors = ["Ariel Abreu <facekapow@outlook.com>"]
+edition = "2018"
+license = "MIT"
+license-file = "LICENSE"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
